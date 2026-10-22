@@ -33,6 +33,12 @@
 
 </details>
 
+https://ghproxy.net/https://raw.githubusercontent.com/lwc369/tvbox/refs/heads/main/fun.json
+
+https://ghproxy.net/https://github.com/lwc369/tvbox/blob/main/ok.json
+
+https://ghproxy.net/https://raw.githubusercontent.com/lwc369/tvbox/refs/heads/main/okys-direct.json
+
 <details>
 <summary>TVBox 自用接口</summary>
 
