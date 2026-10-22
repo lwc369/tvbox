@@ -145,14 +145,6 @@
    "api": "./js/ss/xp天堂.js"
   },
   {
-   "key": "女优色库",
-   "name": "女优色库[py]",
-   "type": 3,
-   "filterable": 0,
-   "changeable": 0,
-   "api": "./js/ss/女优色库.py"
-  },
-  {
    "key": "Jable",
    "name": "Jable[js]",
    "jar": "./jar/gm.jar",
@@ -504,21 +496,6 @@
    "ext": "null$$$https://sukebei.nyaa.si$$$proxy"
   },
   {
-   "key": "py_jable",
-   "name": "jable[py]",
-   "type": 3,
-   "api": "./py/jable.py"
-  },
-  {
-   "key": "py_七区",
-   "name": "七区[py]",
-   "type": 3,
-   "api": "./py/district.py",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1
-  },
-  {
    "key": "py_javdb",
    "name": "javdb[py]",
    "type": 3,
@@ -526,17 +503,6 @@
    "quickSearch": 1,
    "filterable": 1,
    "api": "./js/ss/javdb.py",
-   "order_num": 5,
-   "ext": ""
-  },
-  {
-   "key": "py_18",
-   "name": "🔞 | 快递",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "api": "./py/18.py",
    "order_num": 5,
    "ext": ""
   },
@@ -714,22 +680,6 @@
    "ext": "proxy"
   },
   {
-   "key": "csp_pornhub",
-   "name": "Pornhub",
-   "type": 3,
-   "api": "csp_XYQHiker",
-   "jar": "./jar/XYQ.jar",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "./json/pornhub.json",
-   "style": {
-    "type": "rect",
-    "ratio": 1.6,
-    "proxy": "proxy"
-   }
-  },
-  {
    "key": "pornhub",
    "name": "py_Phb",
    "type": 3,
@@ -847,19 +797,6 @@
    "ext": "null$$$https://www.javdb.com$$$proxy"
   },
   {
-   "key": "csp_Netflav",
-   "name": "Netflav",
-   "type": 3,
-   "api": "csp_Netflav",
-   "jar": "./jar/netflav.jar",
-   "ext": "proxy",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "filterable": 0,
-   "timeout": 60
-  },
-  {
    "key": "奥斯卡",
    "name": "奥斯卡 | 采集",
    "type": 1,
@@ -880,27 +817,6 @@
    "ext": "proxy"
   },
   {
-   "key": "zp066",
-   "name": "花椒 | 采集",
-   "type": 0,
-   "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "大地",
-   "name": "大地 | 采集",
-   "type": 0,
-   "api": "https://dadiapi.com/apple_m3u8.php",
-   "playUrl": "https://play.dadiapi.com/watch?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
    "key": "番号",
    "name": "番号 | 采集",
    "type": 1,
@@ -918,16 +834,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "易看",
-   "name": "易看 | 采集",
-   "type": 1,
-   "api": "https://api.yikanapi.com/api.php/provide/vod/",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0,
    "ext": "proxy"
   },
   {
@@ -956,16 +862,6 @@
    "api": "http://www.afasu.com/api/xml.php",
    "searchable": 1,
    "quickSearch": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "奶茶",
-   "name": "奶茶 | 采集",
-   "type": 0,
-   "api": "https://caiji.naichaapi.com/inc/api.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
    "ext": "proxy"
   },
   {
@@ -1036,15 +932,6 @@
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "探探",
-   "name": "探探 | 采集",
-   "type": 1,
-   "api": "https://apittzy.com/api.php/provide/vod/",
-   "searchable": 0,
-   "quickSearch": 0,
    "ext": "proxy"
   },
   {
