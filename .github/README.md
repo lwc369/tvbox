@@ -1,35 +1,4 @@
-###### ⚠️ **重要提示**：使用前请务必阅读 [免责声明](DISCLAIMER.md)
 
-#### [频道](https://t.me/clun_tz) / 欢迎 Star 及 PR 共同改进
-
-<details>
-<summary>贡献指南</summary>
-
-###### 欢迎贡献代码！请随时提交 Pull Request。
-
-###### Fork 仓库 cluntop/tvbox
-
-> 创建功能分支(`git checkout -b cluntop/tvbox`)  
-
-> 提交更改(`git commit -m '添加某些说明'`)  
-
-> 推送到分支(`git push origin cluntop/tvbox`)  
-
-> 打开 Pull Request
-
-###### WebDav TVbox 接口配置
-
-```
-例如 https://pan.clun.top/dav
-主机 pan.clun.top
-路径 /dav
-协议 SSL
-接口 443
-账号 tvbox
-密码 tvbox
-
-如需自定义账号密码 请联系
-```
 
 </details>
 
